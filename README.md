@@ -1,12 +1,21 @@
-# Guide Numérique de l’Île de la Cité
-Un projet open-source pour explorer les trésors de l’Île de la Cité, cœur historique de Paris.
+# Île de la Cité Digital Guide
+An open-source guide to explore the historic heart of Paris: Île de la Cité.
 
-## Contenu
-- Liste des monuments emblématiques (Notre-Dame, Conciergerie, etc.).
-- Itinéraire pédestre recommandé.
-- Ressources pour visiteurs.
+## Contents
+- `attractions.md`: List of iconic landmarks (Notre-Dame, Sainte-Chapelle, etc.).
+- `attractions_fr.md`: Liste des monuments en français.
+- `map.js` & `index.html`: Interactive map of Île de la Cité using Leaflet.js.
+- Recommended walking itinerary and visitor resources.
 
-Découvrez plus sur [missioniledelacite.paris](https://www.missioniledelacite.paris).
+Learn more about Île de la Cité at [missioniledelacite.paris](https://www.missioniledelacite.paris).
 
-## Comment contribuer
-Ajoutez vos suggestions via une pull request !
+## How to Use
+1. Explore `attractions.md` or `attractions_fr.md` for landmark details.
+2. Open `index.html` in a browser to view the interactive map.
+3. Contribute by adding new landmarks or itineraries!
+
+## Contribute
+Submit suggestions via pull requests. Help us make this guide better!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
